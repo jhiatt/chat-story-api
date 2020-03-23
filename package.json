@@ -1,0 +1,14 @@
+{
+  "name": "chat-story-api",
+  "version": "1.0.0",
+  "description": "api for chat story app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "jordan hiatt",
+  "license": "ISC"
+}
